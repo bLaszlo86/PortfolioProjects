@@ -23,7 +23,7 @@ ORDER BY 1,2
 
 
 -- Looking at Total Cases vs Population
--- Shows what percentage of population got Covid
+-- Shows what percentage of population got Covid in Hungary
 
 SELECT Location, date, population, total_cases, (total_cases/population) * 100 as PercentPopulationInfected
 FROM PortfolioProject..CovidDeaths
