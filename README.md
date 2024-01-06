@@ -1,14 +1,16 @@
-# Üdv, Kedves Látogató.
+# Welcome,
 
 
-A Portfolio Project mappa tartalmazza mindazokat a projecteket, amik tükrözik a különböző technológiák, szoftverek és programnyelvek terén szerzett tudásomat.
+The Portfolio Project folder contains projects that reflect my knowledge of different technologies, software and programming languages.
 
-Bike Sales Data: Eladási adatok tisztítása, analizálása, pivot táblák és dashboard.
+Bike Sales Data.
 
-Covid Portfolio Project: Adatok elemzés több tábla felhasználásával (CovidDeaths.csv, CovidVaccinations.csv), mindezt Microsoft SQL Server-ben.
+Covid Portfolio Project: data analysis using multiple tables (CovidDeaths.csv, CovidVaccinations.csv), all in Microsoft SQL Server.
 
-Movie Portfolio Project: Python-ban, a Kaggle.com-ról letöltött filmes adatok elemzése, és korrelációk keresése.
+Movie Portfolio Project: analyzing movie data downloaded from Kaggle.com in Python and searching for correlations.
 
-Amazon Web Scraping: Web scraping python-ban.
+Amazon Web Scraping: Web scraping in python.
 
-Tableau link: A Covid adatok elemzése során nyert adatok vizualizálása.
+Tableau link: visualization of data obtained from Covid data analysis.
+
+Translated with DeepL.com (free version)
